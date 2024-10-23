@@ -1,0 +1,14 @@
+# Ignore build files
+/bin/
+/out/
+
+# Ignore IDE specific files
+.classpath
+.project
+.settings/
+
+# Ignore compiled Java classes
+*.class
+
+# Mac OS specific files
+.DS_Store
